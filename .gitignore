@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.local
+.tools/
+*contact-sheet.jpg
+media-inventory.json
+public/*
+!public/assets/
+!public/media/
+public/assets/*-reference.css
+public/assets/dummy.png
+/*.png
+/Untitled-1.html

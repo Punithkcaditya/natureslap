@@ -1,0 +1,164 @@
+{
+  "photos": [
+    {
+      "src": "/media/photo-00.webp",
+      "original": "WhatsApp Image 2026-11-13 at 11.19.27 PM (1).jpeg"
+    },
+    {
+      "src": "/media/photo-01.webp",
+      "original": "WhatsApp Image 2026-11-13 at 11.19.27 PM.jpeg"
+    },
+    {
+      "src": "/media/photo-02.webp",
+      "original": "WhatsApp Image 2026-11-13 at 11.22.38 PM.jpeg"
+    },
+    {
+      "src": "/media/photo-03.webp",
+      "original": "WhatsApp Image 2026-11-13 at 11.22.39 PM.jpeg"
+    },
+    {
+      "src": "/media/photo-04.webp",
+      "original": "WhatsApp Image 2026-11-13 at 11.26.02 PM.jpeg"
+    },
+    {
+      "src": "/media/photo-05.webp",
+      "original": "WhatsApp Image 2026-11-13 at 11.27.23 PM.jpeg"
+    },
+    {
+      "src": "/media/photo-06.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.51.49 PM/WhatsApp Image 2026-11-13 at 11.14.29 PM.jpeg"
+    },
+    {
+      "src": "/media/photo-07.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.24 PM (1).jpeg"
+    },
+    {
+      "src": "/media/photo-08.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.24 PM (2).jpeg"
+    },
+    {
+      "src": "/media/photo-09.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.24 PM.jpeg"
+    },
+    {
+      "src": "/media/photo-10.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.25 PM (1).jpeg"
+    },
+    {
+      "src": "/media/photo-11.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.25 PM.jpeg"
+    },
+    {
+      "src": "/media/photo-12.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.26 PM (1).jpeg"
+    },
+    {
+      "src": "/media/photo-13.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.26 PM (2).jpeg"
+    },
+    {
+      "src": "/media/photo-14.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.26 PM (3).jpeg"
+    },
+    {
+      "src": "/media/photo-15.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.26 PM.jpeg"
+    },
+    {
+      "src": "/media/photo-16.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.27 PM (1).jpeg"
+    },
+    {
+      "src": "/media/photo-17.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.27 PM (2).jpeg"
+    },
+    {
+      "src": "/media/photo-18.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.27 PM (3).jpeg"
+    },
+    {
+      "src": "/media/photo-19.webp",
+      "original": "WhatsApp Unknown 2026-11-17 at 9.52.19 PM/WhatsApp Image 2026-11-13 at 11.17.27 PM.jpeg"
+    }
+  ],
+  "videos": [
+    {
+      "src": "/media/video-00.mp4",
+      "poster": "/media/video-00.jpg",
+      "title": "Around the homestay \u00b7 01",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.29 PM (1).mp4"
+    },
+    {
+      "src": "/media/video-01.mp4",
+      "poster": "/media/video-01.jpg",
+      "title": "Around the homestay \u00b7 02",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.29 PM.mp4"
+    },
+    {
+      "src": "/media/video-02.mp4",
+      "poster": "/media/video-02.jpg",
+      "title": "Around the homestay \u00b7 03",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.31 PM (1).mp4"
+    },
+    {
+      "src": "/media/video-03.mp4",
+      "poster": "/media/video-03.jpg",
+      "title": "Around the homestay \u00b7 04",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.31 PM.mp4"
+    },
+    {
+      "src": "/media/video-04.mp4",
+      "poster": "/media/video-04.jpg",
+      "title": "Around the homestay \u00b7 05",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.35 PM (1).mp4"
+    },
+    {
+      "src": "/media/video-05.mp4",
+      "poster": "/media/video-05.jpg",
+      "title": "Around the homestay \u00b7 06",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.35 PM (2).mp4"
+    },
+    {
+      "src": "/media/video-06.mp4",
+      "poster": "/media/video-06.jpg",
+      "title": "Around the homestay \u00b7 07",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.35 PM.mp4"
+    },
+    {
+      "src": "/media/video-07.mp4",
+      "poster": "/media/video-07.jpg",
+      "title": "Around the homestay \u00b7 08",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.36 PM (1).mp4"
+    },
+    {
+      "src": "/media/video-08.mp4",
+      "poster": "/media/video-08.jpg",
+      "title": "Around the homestay \u00b7 09",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.36 PM (2).mp4"
+    },
+    {
+      "src": "/media/video-09.mp4",
+      "poster": "/media/video-09.jpg",
+      "title": "Around the homestay \u00b7 10",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.36 PM (3).mp4"
+    },
+    {
+      "src": "/media/video-10.mp4",
+      "poster": "/media/video-10.jpg",
+      "title": "Around the homestay \u00b7 11",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.36 PM.mp4"
+    },
+    {
+      "src": "/media/video-11.mp4",
+      "poster": "/media/video-11.jpg",
+      "title": "Around the homestay \u00b7 12",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.37 PM (1).mp4"
+    },
+    {
+      "src": "/media/video-12.mp4",
+      "poster": "/media/video-12.jpg",
+      "title": "Around the homestay \u00b7 13",
+      "original": "WhatsApp Video 2026-11-13 at 11.14.37 PM.mp4"
+    }
+  ]
+}
