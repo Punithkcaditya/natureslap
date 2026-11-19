@@ -1,0 +1,144 @@
+.stay-facilities .section-heading,
+.nearby-section .section-heading {
+  margin-bottom: clamp(28px, 4vw, 52px);
+}
+
+.amenities-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+  gap: clamp(26px, 6vw, 82px);
+}
+
+.amenity-list {
+  display: grid;
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.amenity-list li {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 16px;
+  align-items: center;
+}
+
+.amenity-icon {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: #e1efe2;
+  color: #1c7c3e;
+}
+
+.amenity-list h3, .food-option h3 { margin-bottom: 4px; }
+.amenity-list p, .food-section p, .nearby-panel p { color: #515b50; }
+
+.amenities-photo {
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  object-fit: cover;
+  object-position: 48% center;
+}
+
+.food-section {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr;
+  align-items: stretch;
+  gap: clamp(16px, 3vw, 34px);
+  padding-block: clamp(55px, 7vw, 96px);
+}
+
+.food-intro { align-self: center; }
+.food-intro p { margin-block: 12px 18px; }
+.food-option { background: #f0f6ed; padding: clamp(18px, 3vw, 36px); }
+.food-option .amenity-icon { margin-bottom: 15px; }
+
+.nearby-section { background: #f5f8f3; padding-block: clamp(55px, 7vw, 96px); }
+.nearby-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.7fr) minmax(270px, 1fr);
+  gap: clamp(16px, 3vw, 36px);
+}
+
+.nearby-map {
+  min-height: 530px;
+  isolation: isolate;
+  z-index: 0;
+  background: #e6eee2;
+  border: 1px solid #d8e5d6;
+}
+
+.nearby-pin span {
+  display: grid;
+  place-items: center;
+  height: 32px;
+  border-radius: 50%;
+  border: 2px solid white;
+  background: #1c7c3e;
+  color: white;
+  font-family: Ubuntu, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  box-shadow: 0 1px 6px #153e2755;
+}
+.nearby-pin-home span { background: #153e27; font-size: 21px; }
+.nearby-panel { background: #fff; padding: clamp(18px, 2.5vw, 28px); }
+.nearby-selection { border-bottom: 1px solid #dbe7d9; padding-bottom: 14px; }
+.nearby-selection p { margin: 6px 0 9px; font-size: 13px; }
+.nearby-list { list-style: none; margin: 10px 0; padding: 0; }
+.nearby-list button {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 23px 1fr auto;
+  gap: 9px;
+  align-items: center;
+  padding: 8px;
+  border-radius: 4px;
+  text-align: left;
+  font-size: 13px;
+  color: #153e27;
+  background: transparent;
+}
+.nearby-list button:hover, .nearby-list button[aria-pressed='true'] { background: #e5f2e4; }
+.nearby-list-number { display: grid; place-items: center; height: 23px; border-radius: 50%; background: #1c7c3e; color: white; font-size: 11px; }
+.nearby-list small { white-space: nowrap; }
+.nearby-note { font-size: 12px; }
+
+.footer-information .phone { color: #edf9eb; margin-bottom: 8px; }
+.whatsapp-float {
+  position: fixed;
+  bottom: 76px;
+  right: 18px;
+  z-index: 4;
+  display: grid;
+  place-items: center;
+  width: 51px;
+  height: 51px;
+  background: #1c7c3e;
+  color: white;
+  border: 2px solid white;
+  border-radius: 50%;
+  box-shadow: 0 3px 14px #153e2740;
+}
+.whatsapp-float:hover { background: #145f2e; color: white; }
+
+@media (max-width: 850px) {
+  .nearby-layout { grid-template-columns: 1fr; }
+  .nearby-map { min-height: 420px; }
+  .food-section { grid-template-columns: 1fr 1fr; }
+  .food-intro { grid-column: 1 / -1; }
+}
+
+@media (max-width: 600px) {
+  .amenities-layout { grid-template-columns: 1fr; }
+  .amenities-photo { aspect-ratio: 4 / 3; }
+  .nearby-map { min-height: 370px; }
+  .whatsapp-float { bottom: 59px; right: 8px; width: 43px; height: 43px; }
+  .whatsapp-float svg { width: 23px; height: 23px; }
+  .navigation.expanded { max-height: calc(100dvh - 88px); overflow-y: auto; }
+}
